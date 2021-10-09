@@ -39,3 +39,7 @@ gradebook[2].append("Pass")
 print("6. Append Pass grade to Poetry")
 print(gradebook)
 print("\n")
+
+full_gradebook = last_semester_gradebook + gradebook
+print("7. Print the full gradebook including last semester's gradebook")
+print(full_gradebook)
