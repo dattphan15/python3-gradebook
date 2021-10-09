@@ -12,3 +12,9 @@ gradebook = [
 ]
 
 print(gradebook)
+
+gradebook.append(["computer science", 100])
+print(gradebook)
+
+gradebook.append(["visual arts", 93])
+print(gradebook)
